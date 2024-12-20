@@ -27,7 +27,8 @@ Detectron2 기반 Mask R-CNN을 이용한 토마토 객체 탐지 및 상태 분
 ● Google Drive : 데이터를 저장하고 불러오는 파일 시스템으로 사용
 
 # 기술스택
---
+---
+
 ● Detectron2: 객체 탐지 및 인스턴스 분할을 위한 Facebook AI Research의 고성능 라이브러리이며 Mask R-CNN과 같은 최신 모델을 기반으로 하여 고급 컴퓨터 비전 작업을 수행
 
 ● TensorFlow: 딥러닝 모델 구축 및 학습을 위해 사용
